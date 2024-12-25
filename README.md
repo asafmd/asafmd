@@ -4,8 +4,8 @@ I have 4+ years of total experience. It includes experience with SQL, Excel, Pyt
 
 
 👨‍💻 Data Projects:
-HR Analytics Dashboard \n
-Zomato Sales Analysis in SQL \n
+HR Analytics Dashboard, 
+Zomato Sales Analysis in SQL, 
 Excel Dashboard for Vrinda Store Sales in 2022
 
 🤳 Connect with me:
